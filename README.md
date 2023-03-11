@@ -6,6 +6,7 @@
 LinkedIn: https://www.linkedin.com/in/umay-dönmez-03690369u/
 GitHub: https://github.com/umay03-code
 Instagram: https://www.instagram.com/u_d_369/
+PriviteInstagram: https://www.instagram.com/umi0x/
 Email: umaygamedev@gmail.com
 
 <!---
