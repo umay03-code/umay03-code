@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @umay03-code
+- 👋 Hi, I’m Umay!
 - 👀 I’m interested in game developing, coding and art
 - 🌱 I’m currently learning unity and blender
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on character designing mostly
 - 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/umay-dönmez-03690369u/
+LinkedIn: https://www.linkedin.com/in/umay-d-03690369u/
 GitHub: https://github.com/umay03-code
 Instagram: https://www.instagram.com/umaixart/
-PriviteInstagram: https://www.instagram.com/umi0x/
 Email: umaygamedev@gmail.com
 Youtube: https://www.youtube.com/@umay369
 
